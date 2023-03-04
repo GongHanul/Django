@@ -4,15 +4,13 @@
 
 ---
 
-# Django
+# Setting Django Environment
 
 [점프 투 장고](https://wikidocs.net/book/4223)
 
 사용할 파이썬 버전 - 3.10.4
 
 [Python Release Python 3.10.4](https://www.python.org/downloads/release/python-3104/)
-
-# Setting Django Environment
 
 1. Python 가상환경 directory 생성
     
@@ -98,6 +96,6 @@
 
 ---
 
-Pybo Service 구축
+# Pybo Service 구축
 
 [Pybo Service](https://www.notion.so/Pybo-Service-04ddac7dfcf8429991ecea05be948546)
