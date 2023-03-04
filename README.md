@@ -1,5 +1,4 @@
-# MLDL
-Machine Learning/Deep Learning
+# Django
 
 2023/03/02
 
@@ -93,3 +92,12 @@ Machine Learning/Deep Learning
     ```powershell
     C:\> pjt_1_access
     ```
+    
+
+2022/03/04
+
+---
+
+Pybo Service 구축
+
+[Pybo Service](https://www.notion.so/Pybo-Service-04ddac7dfcf8429991ecea05be948546)
